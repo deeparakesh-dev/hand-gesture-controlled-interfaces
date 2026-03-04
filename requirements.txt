@@ -1,4 +1,5 @@
-opencv-python
-mediapipe
-numpy
-matplotlib
+- Python
+- OpenCV
+- MediaPipe
+- NumPy
+- Matplotlib
