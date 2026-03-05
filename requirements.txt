@@ -1,3 +1,4 @@
+requirements on vscode
 - Python
 - OpenCV
 - MediaPipe
